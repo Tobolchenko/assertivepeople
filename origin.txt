@@ -1,0 +1,192 @@
+Uri: https://upperquad.com/work/affirm/
+File Name: K:\github repo\templates\upperquad.com\work\affirm\index.htm
+Content Type: text/html
+
+Uri: https://upperquad.com/assets/projects/famsf/footer.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\famsf\footer.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/famsf/footer-m.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\famsf\footer-m.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/affirm-d-home-hero.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\affirm-d-home-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/affirm-flexible-system-1440x900-v2.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\affirm-flexible-system-1440x900-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/affirm-d-popular-purchases.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\affirm-d-popular-purchases.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/affirm-d-shop.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\affirm-d-shop.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/affirm-m-home-screen.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\affirm-m-home-screen.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/affirm-m-how-screen.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\affirm-m-how-screen.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/affirm-m-quote-screen.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\affirm-m-quote-screen.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/favicons/apple-touch-icon.png
+File Name: K:\github repo\templates\upperquad.com\assets\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/favicons/favicon-32x32.png
+File Name: K:\github repo\templates\upperquad.com\assets\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/favicons/favicon-16x16.png
+File Name: K:\github repo\templates\upperquad.com\assets\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/favicons/manifest.json
+File Name: K:\github repo\templates\upperquad.com\assets\favicons\manifest.json
+Content Type: application/json
+
+Uri: https://upperquad.com/assets/favicons/safari-pinned-tab.svg
+File Name: K:\github repo\templates\upperquad.com\assets\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://upperquad.com/assets/favicons/favicon.ico
+File Name: K:\github repo\templates\upperquad.com\assets\favicons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://upperquad.com/css/site.css?defa6f40fdc95820349996175c87536b
+File Name: K:\github repo\templates\upperquad.com\css\site.css
+Content Type: text/css
+
+Uri: https://upperquad.de/work/affirm/
+File Name: K:\github repo\templates\upperquad.com\work\affirm\index-1.htm
+Content Type: text/html
+
+Uri: https://upperquad.fr/work/affirm/
+File Name: K:\github repo\templates\upperquad.com\work\affirm\index-2.htm
+Content Type: text/html
+
+Uri: https://www.affirm.com/
+File Name: K:\github repo\templates\upperquad.com\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/maps/place/Upperquad/@37.7891336,-122.4072768,17z/data=!3m1!4b1!4m5!3m4!1s0x808580af3a596df7:0x4e234fd5632384c7!8m2!3d37.7891336!4d-122.4050881/
+File Name: K:\github repo\templates\upperquad.com\maps\place\Upperquad\@37.7891336,-122.4072768,17z\data=!3m1!4b1!4m5!3m4!1s0x808580af3a596df70x4e234fd5632384c7!8m2!3d37.7891336!4d-122.4050881\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/maps/place/Upperquad/@52.5024167,13.3642991,14z/data=!4m5!3m4!1s0x0:0xb1ebb306d37346fa!8m2!3d52.5062668!4d13.3731315/
+File Name: K:\github repo\templates\upperquad.com\maps\place\Upperquad\@52.5024167,13.3642991,14z\data=!4m5!3m4!1s0x00xb1ebb306d37346fa!8m2!3d52.5062668!4d13.3731315\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/upperquad/
+File Name: K:\github repo\templates\upperquad.com\upperquad\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/UPPERQUAD/
+File Name: K:\github repo\templates\upperquad.com\UPPERQUAD\index-1.htm
+Content Type: text/html
+
+Uri: https://upperquad.com/assets/projects/affirm/00_hero.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\00_hero.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/00_hero-m.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\00_hero-m.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/shape-1.svg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\shape-1.svg
+Content Type: image/svg+xml
+
+Uri: https://upperquad.com/assets/projects/affirm/shape-services1.svg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\shape-services1.svg
+Content Type: image/svg+xml
+
+Uri: https://upperquad.com/assets/projects/affirm/shape-services3.svg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\shape-services3.svg
+Content Type: image/svg+xml
+
+Uri: https://upperquad.com/assets/projects/affirm/shape-services4.svg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\shape-services4.svg
+Content Type: image/svg+xml
+
+Uri: https://upperquad.com/assets/projects/affirm/shape-services2.svg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\shape-services2.svg
+Content Type: image/svg+xml
+
+Uri: https://upperquad.com/assets/projects/affirm/say-yes.png
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\say-yes.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/projects/affirm/welcome.png
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\welcome.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/projects/affirm/brand.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\brand.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/colors.png
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\colors.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/projects/affirm/3d-shapes.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\3d-shapes.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/people.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\people.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/mobile-screens.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\mobile-screens.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/cs-component-grid.png
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\cs-component-grid.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/projects/affirm/shopping.png
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\shopping.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/projects/affirm/life-events.png
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\life-events.png
+Content Type: image/png
+
+Uri: https://upperquad.com/assets/projects/affirm/screen-browser2.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\screen-browser2.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/screen-browser1.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\screen-browser1.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/wave.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\wave.jpg
+Content Type: image/jpeg
+
+Uri: https://upperquad.com/assets/projects/affirm/end.jpg
+File Name: K:\github repo\templates\upperquad.com\assets\projects\affirm\end.jpg
+Content Type: image/jpeg
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js
+File Name: K:\github repo\templates\upperquad.com\ajax\libs\jquery\2.0.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js
+File Name: K:\github repo\templates\upperquad.com\ajax\libs\gsap\1.19.1\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://upperquad.com/js/app.js?1596670230383273292
+File Name: K:\github repo\templates\upperquad.com\js\app.js
+Content Type: application/javascript
+
